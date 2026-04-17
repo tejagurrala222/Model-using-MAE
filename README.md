@@ -1,7 +1,3 @@
-# Q1 - Used Car Data Cleaning + Baseline MAE
-# ---------------------------------------------------
-# Replace file name below with your dataset path
-
 import pandas as pd
 import numpy as np
 from sklearn.metrics import mean_absolute_error
